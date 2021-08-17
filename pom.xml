@@ -6,8 +6,8 @@
 		<groupId>com.examples.hellospringboot</groupId>
 		<artifactId>HelloRestController.java</artifactId>
 		<version>1.0</version>
-		<packaging>war</packaging>
 	</parent>
+		<version>1.0</version>
 
 	<name>hellospringboot</name>
 	<url>http://maven.apache.org</url>
