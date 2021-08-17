@@ -5,7 +5,7 @@
 
 	<groupId>com.examples</groupId>
 	<artifactId>hellospringboot</artifactId>
-	<version>1.0</version>
+	<!-- <version>1.0</version> -->
 	<packaging>war</packaging>
 
 	<name>hellospringboot</name>
@@ -15,7 +15,7 @@
 		<dependency>
 			<groupId>com.examples</groupId>
 			<artifactId>hellospringboot</artifactId>
-			<version>1.0</version>
+			<!-- <version>1.0</version> -->
 			<packaging>war</packaging>
 		</dependency>
 	</dependencies>
