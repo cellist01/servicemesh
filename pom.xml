@@ -2,16 +2,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<parent>
-		<groupId>com.examples.hellospringboot</groupId>
-		<artifactId>HelloRestController.java</artifactId>
-		<version>1.0</version>
-	</parent>
-		<version>1.0</version>
 
-	<name>hellospringboot</name>
+	<groupId>com.examples.hellospringboot</groupId>
+	<artifactId>HelloRestController.java</artifactId>
+	<version>1.0</version>
+
+	<name>HelloRestController</name>
 	<url>http://maven.apache.org</url>
 
+<!--
 	<dependencies>
 		<dependency>
 			<groupId>com.examples.hellospringboot</groupId>
@@ -20,6 +19,7 @@
                         <packaging>war</packaging>
 		</dependency>
 	</dependencies>
+-->
 
 	<properties>
 		<java.version>UTF-8</java.version>
